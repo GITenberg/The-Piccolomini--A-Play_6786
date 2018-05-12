@@ -1,5 +1,5 @@
 _repo: The-Piccolomini--A-Play_6786
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Coleridge, Samuel Taylor
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '95'
     url: http://www.gutenberg.org/2009/agents/95
     wikipedia: http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Schiller, Friedrich
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/289
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6786#The-Piccolomini--A-Play
 gutenberg_issued: '2004-12-08'
 gutenberg_type: Text
 identifiers:
